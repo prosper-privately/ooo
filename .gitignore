@@ -1,0 +1,19 @@
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.openai/
+
+# Local output and tooling
+_site/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+*.zip
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
