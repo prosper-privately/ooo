@@ -97,3 +97,8 @@ The export contains the site source, its assets, and the documentation listed ab
 Image metadata and the packaged text files are checked for accidental private data. `.gitignore` provides useful exclusions for later work, but it is not a substitute for reviewing future additions before committing them.
 
 See [VERIFICATION.md](VERIFICATION.md) for the exact checks and limitations. The export has not been deployed to a destination GitHub repository as part of this handoff.
+
+## Shameless self-promotion
+
+Want to hear more about the intersection of privacy, security, and software development? Check out https://prosperprivately.substack.com/.
+
